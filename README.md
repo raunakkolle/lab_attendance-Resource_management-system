@@ -1,5 +1,6 @@
-# DBMSProject
-Topic: Lab Attendance and Resource Management System
+# DBMS Project
+# Lab Attendance and Resource Management System
+
 The Lab Attendance and Resource Management system manages the students’ attendance in the
 laboratory switching from the pre-existing manual entries to a digitalized automated registry of
 the attendance. The attendance system will aid the department in calculating percentage and
